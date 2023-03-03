@@ -2,9 +2,7 @@
 	<Shell id="shell">
 		<App id="app">
 			<pages>
-
 				<Page id="page" title="Demo">
-
 					<content>
 					
 					</content>
